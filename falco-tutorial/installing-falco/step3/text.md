@@ -8,5 +8,5 @@
 Run the following command to retrieve Falco logs
 
 ```plain
-journactl -u falco.service
+journalctl -u falco.service
 ```{{exec}}
