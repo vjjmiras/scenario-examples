@@ -3,7 +3,7 @@
 
 <br>
 
-### Solution
+### Steps to follow
 
 Run the following command to retrieve Falco logs
 

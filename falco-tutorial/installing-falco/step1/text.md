@@ -3,7 +3,7 @@ Install Falco package on Ubuntu
 
 <br>
 
-### Solution
+### Steps to follow
 
 Add Falco repository key to allow the package verification when installing it.
 ```plain
