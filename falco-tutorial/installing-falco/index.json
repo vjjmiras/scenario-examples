@@ -1,0 +1,30 @@
+{
+  "title": "Falco Tutorial Playground",
+  "description": "Let's learn some Falco!",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "Install Falco",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "Verify Falco service",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "Look at Falco logs",
+        "text": "step3/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
